@@ -1,3 +1,5 @@
+<!-- Documentação interna para agentes/Claude Code — manter curta e atualizada. -->
+
 # CLAUDE.md — simulador-compra-aluguer
 
 ## O que é
